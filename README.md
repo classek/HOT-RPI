@@ -10,3 +10,6 @@ The script requires Python 3 and the RPi.GPIO library to be installed on the Ras
 The script has been tested and found to have an accuracy of 0.1s and the ability to measure the HOT for at least 24 hours. 
 The script is easy to set up and get results from, and can easily be adapted for use with double doors by adding an additional set of sensors.
 
+
+*HOT = Hold Open Time 
+
